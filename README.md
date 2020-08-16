@@ -4,3 +4,5 @@
 ## For reference https://www.investopedia.com/terms/e/efficientfrontier.asp
 
 ### Deployed on Heroku using Streamlit Library
+
+*Wrote a notebook on Kaggle regarding this topic: </n> https://www.kaggle.com/ethanhunt1080/effective-portfolio-using-monte-carlo-simulation*
