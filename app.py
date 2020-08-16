@@ -59,7 +59,7 @@ if button:
             data_dict[i.upper()] = past_data(i.upper())
         st.balloons()
 
-        st.write(data_dict)
+        
 
         #Extracting Close Price of the stocks and creating a dataframe
         CP_dict = {}
@@ -72,14 +72,13 @@ if button:
         daily_returns = np.log(CP_df.pct_change() + 1).dropna()
     
 
-        st.write(daily_returns)
+        
 
         #Calculating mean returns and covariance of all stocks
         mean_returns = np.array(daily_returns.mean())
         cov = daily_returns.cov()
         
-        st.write(cov)
-        st.write(mean_returns)
+      
 
         #Monte Carlo Simulation
         if num_portfolio < 10000:
