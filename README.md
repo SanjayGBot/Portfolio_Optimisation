@@ -7,6 +7,6 @@
 ### Deployed on Heroku using Streamlit
 ---
 
-*Wrote a notebook on Kaggle regarding this topic: </n> https://www.kaggle.com/ethanhunt1080/effective-portfolio-using-monte-carlo-simulation*
+*Wrote a notebook on Kaggle regarding this topic: </n> [Link](https://www.kaggle.com/ethanhunt1080/effective-portfolio-using-monte-carlo-simulation)*
 
 ---
